@@ -1,4 +1,4 @@
-# Testing
+# University project - Testing in C++
 The project is divided into three parts,
 the purpose of which is to test unknown code (black box tests),
 test known code (white box tests),
